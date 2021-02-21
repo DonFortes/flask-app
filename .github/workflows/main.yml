@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: DonFortes/flask-app:latest
+          tags: azeron/flask-app:v1
