@@ -1,5 +1,4 @@
 import unittest
-
 import hello as tested_app
 
 
